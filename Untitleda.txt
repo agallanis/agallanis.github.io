@@ -1,0 +1,13 @@
+
+<html>
+<head>
+<title>AME 20231: Home Page</title>
+</head>
+
+<frameset frameborder="no" cols="140,*">
+<frame frame src=index2.html>
+<frame name="change334" no resize frame src="index1.html">
+</frameset>
+
+</body>
+</html>

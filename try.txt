@@ -1,0 +1,19 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>AME 20231: Thermodynamics I </TITLE>
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (X11; I; SunOS 5.5 sun4u) [Netscape]">
+</HEAD>
+<BODY TEXT="#DDDDDD" BGCOLOR="#711111" LINK="#00FF00" VLINK="#DDDD00">
+
+<P><BR>
+</P>
+
+<H3>AME 20231</H3>
+
+<P><A HREF="http://www.nd.edu/~powers/Homework1.html" target="change334">Homework 1
+</P>
+
+</BODY>
+</HTML>
